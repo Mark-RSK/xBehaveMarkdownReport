@@ -21,7 +21,5 @@ using System.Reflection;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("XBehaveMarkdownReport.Specs")]
-[assembly: AssemblyDescription("")]
 
 [assembly: Xunit.CollectionBehavior(MaxParallelThreads = 1)]
